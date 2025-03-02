@@ -1,4 +1,7 @@
 package org.rgz_ttt.juntask.repository;
 
-public interface SubscriptionRepository {
+import org.rgz_ttt.juntask.model.Subscriptions;
+import org.springframework.data.repository.CrudRepository;
+
+public interface SubscriptionRepository extends CrudRepository<Subscriptions, Long> {
 }

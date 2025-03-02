@@ -1,4 +1,4 @@
-package org.rgz_ttt.juntask.Controller;
+package org.rgz_ttt.juntask.controller.subscription;
 
-public class SubController {
+public class SubscriptionsController {
 }

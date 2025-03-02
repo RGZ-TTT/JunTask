@@ -1,4 +1,4 @@
-package org.rgz_ttt.juntask;
+package org.rgz_ttt.juntask.controller.user;
 
 public class UserController {
 }
